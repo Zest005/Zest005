@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
-<h3 align="center">A beginner .NET developer from Kharkiv</h3>
+<h3 align="center">.NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zest005&label=Profile%20views&color=0e75b6&style=flat" alt="zest005" /> </p>
-
-- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **Zest005@gmail.com**
 
